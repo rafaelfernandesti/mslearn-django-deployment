@@ -2,3 +2,6 @@ Django
 pylint
 autopep8
 django-crispy-forms
+crispy-bootstrap4
+whitenoise
+psycopg2-binary
